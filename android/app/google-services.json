@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "818306170591",
+    "project_id": "cafapp-e9d32",
+    "storage_bucket": "cafapp-e9d32.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:818306170591:android:54533cdd35bf5e2e34736a",
+        "android_client_info": {
+          "package_name": "com.example.cafe_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "818306170591-jdmpjlebd44fm5bac7rjmfntaalo2uqp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDczO-Bs0ZS2nSQwGI5nFkq0p2R92BwAY4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "818306170591-jdmpjlebd44fm5bac7rjmfntaalo2uqp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
